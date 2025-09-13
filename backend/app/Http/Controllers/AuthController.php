@@ -7,6 +7,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Validator;
 use Tymon\JWTAuth\Facades\JWTAuth;
+use Tymon\JWTAuth\Exceptions\JWTException;
 
 class AuthController extends Controller
 {
@@ -99,7 +100,14 @@ class AuthController extends Controller
      */
     public function logout()
     {
-        JWTAuth::invalidate(JWTAuth::getToken());
+        try {
+            $token = JWTAuth::getToken();
+            if ($token) {
+                JWTAuth::invalidate($token);
+            }
+        } catch (JWTException $e) {
+            // Token missing/invalid/expired - treat as already logged out
+        }
 
         return response()->json([
             'success' => true,
