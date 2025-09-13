@@ -2,6 +2,25 @@
 
 A comprehensive fleet management REST application built with Laravel backend and Next.js frontend, featuring JWT authentication, vehicle management, GPS tracking, and travel analytics.
 
+
+
+
+Screenshots:
+
+
+<img width="1679" height="851" alt="image" src="https://github.com/user-attachments/assets/1b2ccd8a-e1ef-45e0-aa25-0bd7b2a8a553" />
+<img width="1680" height="855" alt="image" src="https://github.com/user-attachments/assets/2abf57a2-6109-42f4-b6bb-02e90bfe303f" />
+<img width="1680" height="853" alt="image" src="https://github.com/user-attachments/assets/24d4743d-d314-425b-8d43-8bc606a9c754" />
+<img width="1679" height="853" alt="image" src="https://github.com/user-attachments/assets/a1bfaa12-4a78-4080-a658-e0f9e7201772" />
+<img width="1680" height="858" alt="image" src="https://github.com/user-attachments/assets/98444e33-7d87-4248-b4f3-a60491246460" />
+<img width="1680" height="854" alt="image" src="https://github.com/user-attachments/assets/41e80542-d8a4-4a4a-95c1-8e3d6d0fada2" />
+<img width="1680" height="857" alt="image" src="https://github.com/user-attachments/assets/1bbb2f12-65cf-4fb6-97f5-9329d87a2d67" />
+<img width="1680" height="858" alt="image" src="https://github.com/user-attachments/assets/69c86e35-e8c0-443e-8a1d-90a9b804e4b4" />
+<img width="1680" height="858" alt="image" src="https://github.com/user-attachments/assets/62a59eed-9039-4429-aab9-b90e14a383ae" />
+
+
+
+
 ## 🚀 Features
 
 ### Backend (Laravel)
@@ -330,24 +349,6 @@ For support and questions:
 ---
 
 **Built with ❤️ using Laravel and Next.js**
-
-
-
-Screenshots:
-
-
-<img width="1679" height="851" alt="image" src="https://github.com/user-attachments/assets/1b2ccd8a-e1ef-45e0-aa25-0bd7b2a8a553" />
-<img width="1680" height="855" alt="image" src="https://github.com/user-attachments/assets/2abf57a2-6109-42f4-b6bb-02e90bfe303f" />
-<img width="1680" height="853" alt="image" src="https://github.com/user-attachments/assets/24d4743d-d314-425b-8d43-8bc606a9c754" />
-<img width="1679" height="853" alt="image" src="https://github.com/user-attachments/assets/a1bfaa12-4a78-4080-a658-e0f9e7201772" />
-<img width="1680" height="858" alt="image" src="https://github.com/user-attachments/assets/98444e33-7d87-4248-b4f3-a60491246460" />
-<img width="1680" height="854" alt="image" src="https://github.com/user-attachments/assets/41e80542-d8a4-4a4a-95c1-8e3d6d0fada2" />
-<img width="1680" height="857" alt="image" src="https://github.com/user-attachments/assets/1bbb2f12-65cf-4fb6-97f5-9329d87a2d67" />
-<img width="1680" height="858" alt="image" src="https://github.com/user-attachments/assets/69c86e35-e8c0-443e-8a1d-90a9b804e4b4" />
-<img width="1680" height="858" alt="image" src="https://github.com/user-attachments/assets/62a59eed-9039-4429-aab9-b90e14a383ae" />
-
-
-
 
 
 
