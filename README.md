@@ -330,3 +330,25 @@ For support and questions:
 ---
 
 **Built with ❤️ using Laravel and Next.js**
+
+
+
+Screenshots:
+
+<img width="1679" height="849" alt="image" src="https://github.com/user-attachments/assets/afe64778-afca-41ef-9813-3a1c10e4b8f0" />
+
+<img width="1680" height="850" alt="image" src="https://github.com/user-attachments/assets/8694cae3-e5a6-43f2-82a6-e8c86b5fbb5a" />
+<img width="1680" height="857" alt="image" src="https://github.com/user-attachments/assets/26320006-c17a-42cf-8df9-e14aff4adf33" />
+<img width="1680" height="849" alt="image" src="https://github.com/user-attachments/assets/5f691040-6f41-4c9a-b6a0-30008d776126" />
+<img width="1680" height="851" alt="image" src="https://github.com/user-attachments/assets/5a5ca31b-81b5-4f47-9170-706738d17cc5" />
+
+<img width="1680" height="853" alt="image" src="https://github.com/user-attachments/assets/6254dbeb-2b72-4c31-8eff-7acc0b2f7ef9" />
+<img width="1680" height="856" alt="image" src="https://github.com/user-attachments/assets/44da53ff-a136-46e7-a985-9040e9dfdd93" />
+
+<img width="1680" height="850" alt="image" src="https://github.com/user-attachments/assets/3cfb8aff-7e2d-401e-89f8-9d58d66cdee2" />
+
+
+
+
+
+
