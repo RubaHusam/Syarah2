@@ -34,6 +34,20 @@ Modern Next.js frontend for the Syarah Fleet Management System with TailwindCSS,
    
    Frontend will be available at: `http://localhost:3000`
 
+## 🔐 Login Details
+
+- Demo account (if available in your environment):
+
+  - Email: `demo@syarah.test`
+  - Password: `123456`
+
+- If the demo account is not present, register a new user at `http://localhost:3000/register`, then log in at `http://localhost:3000/`.
+
+- Notes:
+
+  - Authentication uses JWT. The frontend stores the token in cookies for 7 days.
+  - Backend base URL is configured via `NEXT_PUBLIC_API_URL` in `.env.local`.
+
 ## 🔧 Available Scripts
 
 - `npm run dev` - Start development server

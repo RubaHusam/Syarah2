@@ -48,7 +48,7 @@ export default function GoogleMapModal({ isOpen, onClose, vehicle }: GoogleMapMo
 
   const initializeMap = async () => {
     try {
-      const apiKey = 'AIzaSyDPNlOS5o9MHCRolcLgpD8eoJ_iVnj9fLg';
+      const apiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY;
       if (!apiKey) {
         setError('Google Maps API key is missing. Add NEXT_PUBLIC_GOOGLE_MAPS_API_KEY to frontend/.env.local and restart the dev server.');
         return;
